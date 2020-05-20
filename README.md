@@ -15,5 +15,6 @@
 【2】cmd命令执行，切换目录到 test 目录下执行 `phpunit tests\UserTest.php` 命令 （注：当前命令为测试tests目录下的UserTest.php文件），如想测试tests目录下的全部文件可以执行 `phpunit tests`
 截图：
 ![](http://pic.yijianku.com/Fm4OtpbF6aeiMxoqAQO1xX881ccv)
+
 ## PHPUnit文档
 [参考链接](https://phpunit.de/manual/6.5/zh_cn/installation.html)
